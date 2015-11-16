@@ -1,0 +1,2 @@
+bin/s3 usr/bin
+lib/libs3.so* usr/lib

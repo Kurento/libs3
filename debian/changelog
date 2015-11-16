@@ -1,5 +1,5 @@
-libs3 (all) unstable; urgency=low
+libs3 (2.1~0) unstable; urgency=low
 
-  * This file is not maintained.  See project source code for changes.
+  * Pre-Release 2.1
 
- -- Bryan Ischo <bryan@ischo.com>  Wed, 06 Aug 2008 09:36:43 -0400
+ -- Kurento Team <kurento@googlegroups.com>  Fri, 13 Nov 2015 09:19:42 +0100
