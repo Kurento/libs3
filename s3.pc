@@ -1,0 +1,10 @@
+prefix=/usr
+libdir=${prefix}/lib
+includedir=${prefix}/include/
+
+Name: S3
+Description: Library to handle files in S3 Amazon storage.
+Version: 2.1
+Libs: -L${libdir} -ls3
+Libs.private:
+Cflags: -I${includedir}
